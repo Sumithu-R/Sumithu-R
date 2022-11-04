@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sumithu-R
+- ✨ I’m a UX designer. 
+- 🌱 Interested in frontend development. 
