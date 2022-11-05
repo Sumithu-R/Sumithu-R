@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Sumithu-R
+- 👋 Hi, I’m Sumithu Rukshitha
 - ✨ I’m a UX designer. 
-- 🌱 Interested in frontend development. 
+- 🌱 Interested in frontend development.
